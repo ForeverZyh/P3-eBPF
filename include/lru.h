@@ -6,10 +6,9 @@
 # include<iterator>
 # include<list>
 # include<string>
+# include<unordered_set>
+# include<queue>
 using namespace std;
-
-#ifndef LAB4_INCLUDE_LRU_H_
-#define LAB4_INCLUDE_LRU_H_
 
 class LRU {
  public:
@@ -21,11 +20,7 @@ class LRU {
   int miss;
   explicit LRU(int capacity);
 
-  int get(const string& key);
-
-  void put(const string& key);
+  void put(const string &key);
 
   void get_info() const;
 };
-
-#endif //LAB4_INCLUDE_LRU_H_
