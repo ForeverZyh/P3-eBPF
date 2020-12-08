@@ -1,0 +1,12 @@
+./lru trace.txt 1 >> result.txt
+./lru trace.txt 2 >> result.txt
+./lru trace.txt 4 >> result.txt
+./lru trace.txt 8 >> result.txt
+./lru trace.txt 16 >> result.txt
+./lru trace.txt 32 >> result.txt
+./lru trace.txt 64 >> result.txt
+./lru trace.txt 128 >> result.txt
+./lru trace.txt 256 >> result.txt
+./lru trace.txt 512 >> result.txt
+./lru trace.txt 1024 >> result.txt
+./lru trace.txt 2048 >> result.txt
