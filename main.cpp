@@ -8,6 +8,10 @@
 # include<iostream>
 # include<fstream>
 # include "2q.h"
+# include "opt.h"
+
+vector<string> trace;
+unordered_map<string, queue<int> > trace_access;
 
 int main(int argc, char **argv) {
   if (argc != 3) {
@@ -16,8 +20,6 @@ int main(int argc, char **argv) {
   }
   int capacity = stoi(argv[2]);
   int real_capacity = capacity * 1024 / 4;
-  TwoQ policy(real_capacity, 0.2, 0.5);
-//  LRU policy(real_capacity);
 
   ifstream ifs;
   ifs.open(argv[1], ifstream::in);
@@ -30,7 +32,14 @@ int main(int argc, char **argv) {
 	//cout<<i<<endl;
 	string real_index = index.substr(6);
 	string key = page + real_index;
-	policy.put(key);
+	trace.push_back(key);
+	trace_access[key].push(i);
+  }
+  OPT policy(real_capacity, &trace_access, trace.size());
+//  TwoQ policy(real_capacity, 0.2, 0.5);
+//  LRU policy(real_capacity);
+  for (int i = 0; i < trace.size(); i++) {
+	policy.put(trace[i]);
   }
   cout << "cache size:" << capacity << "M" << endl;
   policy.get_info();
