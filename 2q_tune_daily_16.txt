@@ -1,0 +1,90 @@
+kin: 0.1 kout 0.1
+total:665985 hits:268575 miss:397410 hit rates:0.403275
+kin: 0.1 kout 0.3
+total:665985 hits:305278 miss:360707 hit rates:0.458386
+kin: 0.1 kout 0.5
+total:665985 hits:316209 miss:349776 hit rates:0.474799
+kin: 0.1 kout 0.7
+total:665985 hits:322008 miss:343977 hit rates:0.483506
+kin: 0.1 kout 0.9
+total:665985 hits:316857 miss:349128 hit rates:0.475772
+kin: 0.2 kout 0.1
+total:665985 hits:291085 miss:374900 hit rates:0.437074
+kin: 0.2 kout 0.3
+total:665985 hits:307681 miss:358304 hit rates:0.461994
+kin: 0.2 kout 0.5
+total:665985 hits:323828 miss:342157 hit rates:0.486239
+kin: 0.2 kout 0.7
+total:665985 hits:318151 miss:347834 hit rates:0.477715
+kin: 0.2 kout 0.9
+total:665985 hits:318780 miss:347205 hit rates:0.478659
+kin: 0.3 kout 0.1
+total:665985 hits:299560 miss:366425 hit rates:0.4498
+kin: 0.3 kout 0.3
+total:665985 hits:316940 miss:349045 hit rates:0.475897
+kin: 0.3 kout 0.5
+total:665985 hits:323671 miss:342314 hit rates:0.486003
+kin: 0.3 kout 0.7
+total:665985 hits:321455 miss:344530 hit rates:0.482676
+kin: 0.3 kout 0.9
+total:665985 hits:319922 miss:346063 hit rates:0.480374
+kin: 0.4 kout 0.1
+total:665985 hits:301718 miss:364267 hit rates:0.45304
+kin: 0.4 kout 0.3
+total:665985 hits:317334 miss:348651 hit rates:0.476488
+kin: 0.4 kout 0.5
+total:665985 hits:323806 miss:342179 hit rates:0.486206
+kin: 0.4 kout 0.7
+total:665985 hits:323188 miss:342797 hit rates:0.485278
+kin: 0.4 kout 0.9
+total:665985 hits:321083 miss:344902 hit rates:0.482117
+kin: 0.5 kout 0.1
+total:665985 hits:309628 miss:356357 hit rates:0.464917
+kin: 0.5 kout 0.3
+total:665985 hits:321760 miss:344225 hit rates:0.483134
+kin: 0.5 kout 0.5
+total:665985 hits:324319 miss:341666 hit rates:0.486976
+kin: 0.5 kout 0.7
+total:665985 hits:324501 miss:341484 hit rates:0.48725
+kin: 0.5 kout 0.9
+total:665985 hits:322007 miss:343978 hit rates:0.483505
+kin: 0.6 kout 0.1
+total:665985 hits:311290 miss:354695 hit rates:0.467413
+kin: 0.6 kout 0.3
+total:665985 hits:323837 miss:342148 hit rates:0.486253
+kin: 0.6 kout 0.5
+total:665985 hits:326062 miss:339923 hit rates:0.489594
+kin: 0.6 kout 0.7
+total:665985 hits:324478 miss:341507 hit rates:0.487215
+kin: 0.6 kout 0.9
+total:665985 hits:323750 miss:342235 hit rates:0.486122
+kin: 0.7 kout 0.1
+total:665985 hits:314470 miss:351515 hit rates:0.472188
+kin: 0.7 kout 0.3
+total:665985 hits:326735 miss:339250 hit rates:0.490604
+kin: 0.7 kout 0.5
+total:665985 hits:326276 miss:339709 hit rates:0.489915
+kin: 0.7 kout 0.7
+total:665985 hits:324003 miss:341982 hit rates:0.486502
+kin: 0.7 kout 0.9
+total:665985 hits:323749 miss:342236 hit rates:0.486121
+kin: 0.8 kout 0.1
+total:665985 hits:320695 miss:345290 hit rates:0.481535
+kin: 0.8 kout 0.3
+total:665985 hits:325139 miss:340846 hit rates:0.488208
+kin: 0.8 kout 0.5
+total:665985 hits:323498 miss:342487 hit rates:0.485744
+kin: 0.8 kout 0.7
+total:665985 hits:322131 miss:343854 hit rates:0.483691
+kin: 0.8 kout 0.9
+total:665985 hits:322857 miss:343128 hit rates:0.484781
+kin: 0.9 kout 0.1
+total:665985 hits:323255 miss:342730 hit rates:0.485379
+kin: 0.9 kout 0.3
+total:665985 hits:323626 miss:342359 hit rates:0.485936
+kin: 0.9 kout 0.5
+total:665985 hits:324121 miss:341864 hit rates:0.486679
+kin: 0.9 kout 0.7
+total:665985 hits:322318 miss:343667 hit rates:0.483972
+kin: 0.9 kout 0.9
+total:665985 hits:321025 miss:344960 hit rates:0.48203

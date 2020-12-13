@@ -1,0 +1,24 @@
+cache size:1M
+total:7280075 hits:2040250 miss:5239825 hit rates:0.280251
+cache size:2M
+total:7280075 hits:2676301 miss:4603774 hit rates:0.36762
+cache size:4M
+total:7280075 hits:3787330 miss:3492745 hit rates:0.520232
+cache size:8M
+total:7280075 hits:5467226 miss:1812849 hit rates:0.750985
+cache size:16M
+total:7280075 hits:6228903 miss:1051172 hit rates:0.85561
+cache size:32M
+total:7280075 hits:6272185 miss:1007890 hit rates:0.861555
+cache size:64M
+total:7280075 hits:6302300 miss:977775 hit rates:0.865692
+cache size:128M
+total:7280075 hits:6317976 miss:962099 hit rates:0.867845
+cache size:256M
+total:7280075 hits:6459300 miss:820775 hit rates:0.887257
+cache size:512M
+total:7280075 hits:6533776 miss:746299 hit rates:0.897487
+cache size:1024M
+total:7280075 hits:6568399 miss:711676 hit rates:0.902243
+cache size:2048M
+total:7280075 hits:6620459 miss:659616 hit rates:0.909394
