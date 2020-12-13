@@ -9,6 +9,7 @@
 # include<fstream>
 # include "2q.h"
 # include "opt.h"
+# include "arc.h"
 
 vector<string> trace;
 unordered_map<string, queue<int> > trace_access;
@@ -35,7 +36,8 @@ int main(int argc, char **argv) {
 	trace.push_back(key);
 	trace_access[key].push(i);
   }
-  OPT policy(real_capacity, &trace_access, trace.size());
+  ARC policy(real_capacity);
+//  OPT policy(real_capacity, &trace_access, trace.size());
 //  TwoQ policy(real_capacity, 0.2, 0.5);
 //  LRU policy(real_capacity);
   for (int i = 0; i < trace.size(); i++) {
